@@ -1,0 +1,7 @@
+/.DS_Store
+/.vscode
+/librosa_test.py
+/not-succeed.txt
+/videos/
+/data/avspeech_train.csv
+/data/unbalanced_train_segments.csv
